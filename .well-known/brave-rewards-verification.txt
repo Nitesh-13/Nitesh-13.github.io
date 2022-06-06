@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: nitesh-13.github.io
+Token: fff88d77a670490f4d8c3be5ca5065d686db33332626117fb2c7c3734ff52552
