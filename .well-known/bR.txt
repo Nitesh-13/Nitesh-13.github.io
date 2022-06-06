@@ -1,1 +1,0 @@
-This Directory containf the brave token file for brave rewards verification.
