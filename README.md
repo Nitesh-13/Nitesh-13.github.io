@@ -8,3 +8,7 @@ A GUI Application to auto install and setup different programming language compi
 2. [Programmers-Directory](https://github.com/Nitesh-13/Programmers-Directory)
 
 This Repository consists of a chrome extension which lists top websites useful for coder enthusiasts.
+
+3. [Attendance Manager](https://github.com/Nitesh-13/Attendance-Manager)
+
+Attendance Manager is a Desktop application built with Qt Framework for c++.
